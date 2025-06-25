@@ -1,3 +1,4 @@
 #include <stdio.h>
-int main() { printf("Hello, World!c\n"); return 0; }
+int main() { printf("Hello, World!c\n");
+print("hi"); return 0; }
 
